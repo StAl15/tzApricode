@@ -1,0 +1,23 @@
+.wrapper {
+    .modal {
+        .content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translateX(-50%), translateY(-50%);
+            width: auto;
+            min-width: 250px;
+            background-color: white;
+            border-radius: 15px;
+            padding: 4px;
+            .textField {
+                width: 100%;
+            }
+            .actions {
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+    }
+}

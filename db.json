@@ -1,0 +1,96 @@
+{
+  "todos": [
+    {
+      "id": 4
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Some",
+      "userId": 2,
+      "completed": false
+    },
+    {
+      "id": 8,
+      "title": "qwiz",
+      "userId": 2,
+      "completed": true
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16,
+      "title": "fwefwef",
+      "userId": 1,
+      "completed": true
+    },
+    {
+      "id": 17,
+      "title": "fwfes",
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "id": 18,
+      "title": "sefes",
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "id": 19,
+      "title": "fsefes",
+      "userId": 1,
+      "completed": true
+    }
+  ],
+  "users": [
+    {
+      "username": "Alex",
+      "password": "qwerty123",
+      "userId": 1
+    },
+    {
+      "username": "Xela",
+      "password": "qwerty123",
+      "userId": 2
+    },
+    {
+      "username": "Lexi",
+      "password": "qwerty123",
+      "userId": 3
+    }
+  ]
+}

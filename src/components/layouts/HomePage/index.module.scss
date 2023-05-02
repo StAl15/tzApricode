@@ -1,0 +1,17 @@
+.wrapper {
+    .content {
+        .card {
+            width: 100%;
+            .cardContent {
+                .container {
+                    align-items: center;
+                    display: flex;
+                }
+            }
+        }
+    }
+    .nothing {
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+}
